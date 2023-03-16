@@ -1,0 +1,23 @@
+body{
+ 
+    font-family: Times New Roman;
+    font-size:  22px;
+    background-color: gray;
+    line-height: 3em;
+    word-spacing: 0.4rem;
+  }
+  .container{
+   \\background-color:#FFBC80;
+    color: white;
+    padding: 10px;
+    margin-top: -20px;
+    border: 1px solid orange;
+   
+  }
+  #head1{
+    padding-top:50px;
+  }
+  .text-edit{
+    font-family:Verdena;
+    font-size:20px;
+  }
